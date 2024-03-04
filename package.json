@@ -1,0 +1,20 @@
+{
+  "name": "ellimajdorado1",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependents": {
+      "crypto-utility-xid": "^1.0.0"
+  },
+  "keywords": [
+      "crypto",
+      "currency",
+      "utility"
+  ],
+  "author": "ellimajdorado",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/ellimajdorado/ellimajdorado1.git"
+  }
+}
